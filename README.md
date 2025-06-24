@@ -2,7 +2,7 @@ Title:
 TTT
 
 Introduction:
-Create a Tic Tac Toe game application using Swift Language.
+Create a 'Tic Tac Toe game' application using Swift Language.
 
 Video of the Application: 
 
